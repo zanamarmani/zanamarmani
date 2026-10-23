@@ -6,7 +6,7 @@ Karachi, Pakistan · Open to local and remote backend engineering opportunities
 
 I build Python APIs, background-processing workflows, and integrations. My focus is clear API contracts, reliable execution, and maintainable backend services.
 
-[Connect on LinkedIn](https://www.linkedin.com/in/zeshanhussainai/)
+[View my portfolio](https://zeeshan-backend-portfolio-eight.vercel.app/) · [Connect on LinkedIn](https://www.linkedin.com/in/zeshanhussainai/)
 
 ## Technical focus
 
